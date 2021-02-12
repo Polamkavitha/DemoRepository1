@@ -1,0 +1,8 @@
+public class PERSONAL
+{
+     public Static void main(String args[])
+          {
+              System.out.println(" name=Kavitha");
+              System.out.println("age=23");
+            }   
+}
