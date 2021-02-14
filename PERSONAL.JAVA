@@ -4,5 +4,7 @@ public class PERSONAL
           {
               System.out.println(" name=Kavitha");
               System.out.println("age=23");
+              System.out.println("Hi everyone"); 
+                
             }   
 }

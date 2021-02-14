@@ -4,5 +4,6 @@ public class professional
           {
               System.out.println("company name=IBM");
               System.out.println("role=Developer");
+              System.out.println("Salary=4.25");
             }   
 }
